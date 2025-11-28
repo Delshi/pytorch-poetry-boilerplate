@@ -1,6 +1,6 @@
-Language: [English](README.md) | [Русский](README_RU.md)
-
 # PyTorch Poetry Boilerplate (CUDA + CPU)
+
+Language: [English](README.md) | [Русский](README_RU.md)
 
 Ready-to-use [`pyproject.toml`](https://python-poetry.org/docs/pyproject/) templates for **PyTorch-based neural network projects**, optimized for both **local development** and future **PyPI distribution**.
 
