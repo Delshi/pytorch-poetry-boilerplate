@@ -1,3 +1,5 @@
+Language: [English](README.md) | [Русский](README_RU.md)
+
 # PyTorch Poetry Boilerplate (CUDA + CPU)
 
 Ready-to-use [`pyproject.toml`](https://python-poetry.org/docs/pyproject/) templates for **PyTorch-based neural network projects**, optimized for both **local development** and future **PyPI distribution**.
@@ -19,7 +21,7 @@ Ready-to-use [`pyproject.toml`](https://python-poetry.org/docs/pyproject/) templ
 - Make sure that CUDA installed on your PC. Guide: [CUDA Quick Start](https://docs.nvidia.com/cuda/cuda-quick-start-guide/index.html) | [Windows](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/) | [Linux](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/)
 - In `pyproject-cuda128.toml` change source  `url = "https://download.pytorch.org/whl/cu128"` to your version. For example, for CUDA v. 12.7 the end of url will be `cu127`
 
-## Quick Start (Local Project)
+## Quick Start
 
 1. Choose your version:
    ```bash
