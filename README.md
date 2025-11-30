@@ -61,8 +61,8 @@ Ready-to-use [`pyproject.toml`](https://python-poetry.org/docs/pyproject/) templ
 - `torch`, `torchaudio`, `torchvision` (CUDA or CPU)
 - `tensorboard`
 - `numpy`, `scikit-learn`
-- `matplotlib`, `seaborn`
-- `tqdm`
+- `matplotlib`, `seaborn`, `pandas`
+- `tqdm`, `pyyaml`
 
 ---
 
