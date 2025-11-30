@@ -62,8 +62,8 @@ Language: [English](README.md) | [Русский](README_RU.md)
 - `torch`, `torchaudio`, `torchvision` (CUDA или CPU)
 - `tensorboard`
 - `numpy`, `scikit-learn`
-- `matplotlib`, `seaborn`
-- `tqdm`
+- `matplotlib`, `seaborn`, `pandas`
+- `tqdm`, `pyyaml`
 
 ---
 
