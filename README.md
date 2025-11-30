@@ -19,7 +19,7 @@ Ready-to-use [`pyproject.toml`](https://python-poetry.org/docs/pyproject/) templ
 
 - Define which version of CUDA your GPU supports. You can do it here: [CUDA Compability Table](https://developer.nvidia.com/cuda-gpus)
 - Make sure that CUDA installed on your PC. Guide: [CUDA Quick Start](https://docs.nvidia.com/cuda/cuda-quick-start-guide/index.html) | [Windows](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/) | [Linux](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/)
-- In `pyproject-cuda128.toml` change source  `url = "https://download.pytorch.org/whl/cu128"` to your version. For example, for CUDA v. 12.7 the end of url will be `cu127`
+- In `pyproject-cuda128.toml` change source  `url = "https://download.pytorch.org/whl/cu128"` to your version. For example, for CUDA v. 12.6 the end of url will be `cu126`
 
 ## Quick Start
 
