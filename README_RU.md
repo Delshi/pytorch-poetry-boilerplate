@@ -19,7 +19,7 @@ Language: [English](README.md) | [Русский](README_RU.md)
 
 - Определите, какую версию CUDA поддерживает ваша видеокарта. Это можно сделать здесь: [Таблица совместимости CUDA](https://developer.nvidia.com/cuda-gpus)
 - Убедитесь, что CUDA установлена ​​на вашем компьютере. Руководство: [CUDA Quick Start](https://docs.nvidia.com/cuda/cuda-quick-start-guide/index.html) | [Windows](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/) | [Linux](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/)
-- В файле `pyproject-cuda128.toml` измените source `url = "https://download.pytorch.org/whl/cu128"` на вашу версию. Например, для CUDA версии 12.7 URL-адрес будет заканчиваться на `cu127`
+- В файле `pyproject-cuda128.toml` измените source `url = "https://download.pytorch.org/whl/cu128"` на вашу версию. Например, для CUDA версии 12.6 URL-адрес будет заканчиваться на `cu126`
 
 ## Быстрый старт
 
